@@ -1,4 +1,4 @@
-# Exno.9 - Prompt Engineering for Video Generation  
+# Exno.9 - Exploration of Prompting Techniques for Video Generation 
 ### Date: 21/04/2025
 ### Register No.: 212222040015
 
